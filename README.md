@@ -17,7 +17,7 @@ Python for scripting and automation
 Framework: Next.js for server-rendered React applications
 How to Reach Me
 
-You can reach out to me via email at reydivonay@gmail.com or connect with me on LinkedIn.
+You can reach out to me via email at reydivonay@gmail.com.
 
 Fun Fact
 
