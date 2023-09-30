@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm Faxraddin, a passionate FullStack developer from Azerbaijan. 🚀
+I'm Faxraddin, a passionate FullStack Software Engineer. 🚀
 
 About Me
 
@@ -17,10 +17,10 @@ Python for scripting and automation
 Framework: Next.js for server-rendered React applications
 How to Reach Me
 
-You can reach out to me via email at your_email@example.com or connect with me on LinkedIn.
+You can reach out to me via email at reydivonay@gmail.com or connect with me on LinkedIn.
 
 Fun Fact
 
-⚡ Fun fact: I love to explore new hiking trails and enjoy photography as a hobby.
+⚡ Fun fact: I love to read classic books and enjoy sport.
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions. 😊
