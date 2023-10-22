@@ -6,7 +6,7 @@ About Me
 🔭 I'm currently working on various web development projects using the MERN (MongoDB, Express.js, React, Node.js) stack.                                               
 🌱 I'm always learning and expanding my skillset. Currently, I'm exploring Python and building projects with Next.js.                                          
 👯 I'm open to collaborating on exciting web development projects.                                                                                                     
-💬 Ask me about anything related to web development, from front-end design to back-end architecture.
+💬 Ask me about anything related to web development, from front-end design to back-end architecture.                                                                 
 😄 Pronouns: He/Him                                
 Technologies I Use
 
