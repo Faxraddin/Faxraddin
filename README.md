@@ -10,7 +10,7 @@ About Me
 😄 Pronouns: He/Him                                
 Technologies I Use
 
-Front-end: HTML, CSS, JavaScript, React                                                                                                                                 
+Front-end: HTML, CSS, JavaScript, React, Next.js                                                                                                                                 
 Back-end: Node.js, Express.js                                      
 App-development: React Native                                                                        
 Database: MongoDB
