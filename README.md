@@ -3,13 +3,19 @@ Hi there! 👋
 I'm Faxraddin, an enthusiastic FullStack Software Engineer. 🚀
 
 About Me
-🔭 Currently working on diverse web development projects using the MERN (MongoDB, Express.js, React, Node.js) stack.
-🌱 Always learning and expanding my skillset, exploring Python, and building projects with Next.js.
+🔭 Currently working on diverse web development projects using the MERN (MongoDB, Express.js, React, Node.js) stack.  
+
+🌱 Always learning and expanding my skillset, exploring Python, and building projects with Next.js.                                                                                   
 👯 Open to collaborating on exciting web development projects.
+
 💬 Ask me about anything related to web development, from front-end design to back-end architecture.
+
 😄 Pronouns: He/Him
+
 Technologies I Use
+
 Front-end: HTML, CSS, JavaScript, React, Next.js
+
 
 Back-end: Node.js, Express.js
 
