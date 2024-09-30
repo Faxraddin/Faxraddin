@@ -1,4 +1,4 @@
-# Hello, I'm Faxraddin Yuzbashew! 👋
+# Hello, I'm Faxraddin(Arthur) Yuzbashew! 👋
 
 As a Full Stack Developer 🌐 with a strong focus on the MERN stack, I bring over 4 years of experience in creating engaging, efficient, and impactful web applications. My passion lies in blending innovative design with functional technology to craft user-centric solutions.
 
