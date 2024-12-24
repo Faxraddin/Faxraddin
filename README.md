@@ -14,7 +14,7 @@ As a Full Stack Developer 🌐 with a strong focus on the MERN stack, I bring ov
 
 ## Key Projects 🚀
 - **Hope Lake (Hotel Website)**: A dynamic e-commerce platform with a booking system.
-- **Anita Impex**: A call-center website for UK company.
+- **Bibliou**: A social media for book lovers.
 - **Plum**: A 3D web application with information,animations and seamless integration.
 
 ## Connect with Me 🤝
