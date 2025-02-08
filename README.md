@@ -2,8 +2,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="images/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="images/github-contribution-grid-snake.svg" />
   </picture>
 </div>
