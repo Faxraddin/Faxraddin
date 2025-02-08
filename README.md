@@ -86,53 +86,6 @@
   </tr>
 </table>
 
-## 🖥️ Workspace Setup
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://i.ibb.co/5TrdbWC/imageedit-14-2619558547.png" width="48" height="48" alt="CPU">
-      <br>
-      <span>CPU</span>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="i7-8th-gen">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://i.ibb.co/1GC0VqC/imageedit-19-8970180062.gif" width="48" height="48" alt="GPU">
-      <br>
-      <span>GPU</span>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/NVIDIA-RTX_2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="rtx-2080">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://i.ibb.co/hBgDy3Q/imageedit-7-3135521893.png" width="48" height="48" alt="OS">
-      <br>
-      <span>OS</span>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="IDE">
-      <br>
-      <span>IDE</span>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vs-code">
-    </td>
-  </tr>
-</table>
-</div>
-
 ## 🏆 Achievement Showcase
 
 <div align="center">
@@ -144,5 +97,5 @@
 ## Visitor's Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{BankkRoll}/count.svg" alt="BankkRoll :: Visitor's Count">
+  <img src="https://profile-counter.glitch.me/{Faxraddin}/count.svg" alt="Faxraddin :: Visitor's Count">
 </div>
