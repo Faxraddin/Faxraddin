@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=👋+Hello!+I'm+Bankk;Thanks+for+checking+out+my+GitHub!;⭐+Anything+you+find+useful!;Contact+me+if+you+have+any+questions!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=👋+Hello!+I'm+Faxraddin(Arthur);Thanks+for+checking+out+my+GitHub!;⭐+Anything+you+find+useful!;Contact+me+if+you+have+any+questions!)](https://git.io/typing-svg)
 
 <div align="center">
   <picture>
@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://gitroll.io/profile/s6vP9klKpmDYJ7lpkPHpa" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/s6vP9klKpmDYJ7lpkPHpa" alt="GitRoll Profile Badge"/>
+    <img src="https://gitroll.io/api/badges/profiles/v1/s6vP9klKpmDYJ7lpkPHpa" alt="Faxraddin(Arthur) Profile Badge"/>
   </a>
 </div>
 
