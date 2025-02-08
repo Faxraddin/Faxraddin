@@ -8,12 +8,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <a href="https://gitroll.io/profile/s6vP9klKpmDYJ7lpkPHpa" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/s6vP9klKpmDYJ7lpkPHpa" alt="Faxraddin(Arthur) Profile Badge"/>
-  </a>
-</div>
-
 ---
 
 ## 🚀 Tech Stack
