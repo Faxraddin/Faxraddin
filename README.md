@@ -70,20 +70,6 @@
       </div>
     </td>
   </tr>
-  <tr>
-    <td valign="top" colspan="2">
-      <h3 align="center">Blockchain & Specialized</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-        <img src="https://img.shields.io/badge/-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
-        <img src="https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
-        <img src="https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
-        <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-        <img src="https://img.shields.io/badge/-IoT_Cloud_Platforms-0052CC?style=for-the-badge&logo=salesforce&logoColor=white" alt="IoT Cloud Platforms" />
-        <img src="https://img.shields.io/badge/-Data_Visualization-FF6384?style=for-the-badge&logo=d3.js&logoColor=white" alt="Data Visualization" />
-      </div>
-    </td>
-  </tr>
 </table>
 
 ## 🏆 Achievement Showcase
